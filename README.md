@@ -16,7 +16,7 @@
   <br/>
   <b>Quan Ly Muon Phong</b><i>https://github.com/nhdang29/Quan_Ly_Muon_Phong_Khoa</i>
   <br/>
-  <b>Learning GetX</b><i>https://github.com/nhdang29/study-get_it</i>
+  <b>Learning GetX hehe</b><i>https://github.com/nhdang29/study-get_it</i>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
